@@ -1,0 +1,43 @@
+[
+    {
+        "Name": "Admin",
+        "ShortName": "Admin",
+        "Description": "Admins are responsible for a wide range of admin tasks which keep IT network, servers, security systems etc. in good health.",
+        "ID": "01"
+    },
+    {
+        "Name": "Agile Coach",
+        "ShortName": "Agile Coach",
+        "Description": "Agile coaches help train corporate teams on the agile methodology and oversee the development of agile teams to ensure effective outcomes for the organization. They are responsible for guiding teams through the implementation process and are tasked with encouraging workers and leadership to embrace the agile method.",
+        "ID": "02"
+    },
+    {
+        "ShortName": "Agile Lead",
+        "Description": "Responsible to remove impediments for the team and shield them from\ninterruptions, act as a coach to the team, Product Ownerand wider organisation to\nhelp them continually improve, and facilitates the delivery of work and where\nappropriate\n? Agile lead supports the product owner in aligning scheduling of activities to\broader programme / epic / release requirements \n? Responsible for facilitating the team self-organise, enabling continuous improvement of change and run activities, aligned to the product",
+        " ID": "03"
+    },
+    {
+        "Name": "Analytics Lead",
+        "ShortName": "Analytics Lead",
+        "Description": "Leads the data analytics department and oversees the activities of the departments and personnel. Analytics Lead ensures that the business in its various departments understands its own health, finds growth levers, and identifies opportunities for optimization",
+        "ID": "04"
+    },
+    {
+        "ID": "05",
+        "Name": "Android Engineer",
+        "ShortName": "Android Eng",
+        "Description": "Designing and developing advanced applications for the Android platform. Also they are responsible for unit-testing code forrobustness, including edge cases, usability, and general reliability,, bug fixing and improving application performance"
+    },
+    {
+        "ID": "06",
+        "Name": "API Engineer",
+        "ShortName": "API Eng",
+        "Description": "API engineers design, develop, implement, oversee, and adapt APIs - application programming interfaces - for a number of different types of organizations in business, education, science, and other fields in which data gueries are made via internet and cloud platforms."
+    },
+    {
+        "ID": "07",
+        "Name": "Architect",
+        "ShortName": "Architect",
+        "Description": "Software developer experts who makes high-level design choices and tries to enforce technical standards, including softwarecoding standards, tools, and platforms.MacBook Pro"
+    }
+]

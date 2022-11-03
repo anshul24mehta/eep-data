@@ -1,0 +1,28 @@
+[
+    {
+        "Staff ID": "12345678",
+        "Name": "Anshul Mehta",
+        "Primary Role": "Development Engineer",
+        "Primary Role ID": "01",
+        "Secondary Role": "iOs Engineer",
+        "Secondary Role ID": "001",
+        "Email": "anshul.mehta@hsbc.co.in",
+        "Job Category": "Full Stack Engineering",
+        "GB/GF IT": "Wealth and Personal Banking IT",
+        "GB/GF IT ID": "01",
+        "Service Line": "RBWM - Digital Foundations",
+        "Service Line ID": "142",
+        "Program": "OMA-WAO",
+        "Program ID": "1234",
+        "Pod": "WCAO - Venus",
+        "Pod ID": "1111",
+        "Country": "India",
+        "Country Iso2Code": "IN",
+        "Country Iso3Code": "IND",
+        "City": "Pune",
+        "PrimaryPodFlag": "True",
+        "Domain": "НВАР",
+        "ADLogin": "12345678",
+        "Resource Filter": "Technology"
+    }
+]
