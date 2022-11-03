@@ -1,0 +1,38 @@
+[
+    {
+        "staffID": "12345678",
+        "UserName": "Anshul Mehta",
+        "SkillName": "Orange Belt (Angular)",
+        "skillsource": "SCW"
+    },
+    {
+        "staffID": "12345671",
+        "UserName": "Vinay Ram",
+        "SkillName": "White Belt (Pseudocode)",
+        "Skillsource": "SCW"
+    },
+    {
+        "StaffID": "12345672",
+        "UserName": "Deepesh Yadav",
+        "SkillName": "White Belt (Java Basic)",
+        "Skillsource": "SCW"
+    },
+    {
+        "StaffID": "12345673",
+        "UserName": "Pankaj Kapse",
+        "SkillName": "Yello Belt (Pseudocode)",
+        "Skillsource": "SCW"
+    },
+    {
+        "StaffID": "12345674",
+        "UserName": "Celia Zhou",
+        "SkillName": "AWS Cloud (Pseudocode)",
+        "Skillsource": "SCW"
+    },
+    {
+        "StaffID": "12345675",
+        "UserName": "Gaven Lv",
+        "SkillName": "Azure Cloud (Pseudocode)",
+        "Skillsource": "SCW"
+    }
+]
